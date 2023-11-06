@@ -1,8 +1,5 @@
--  Hi, I’m @WalaGithub
--  I’m interested in AI and 
--  I’m currently learning JS 
--  I’m looking to collaborate on future projects
--  How to reach me discord: Wala#8920
+-  Hi, I’m Wala
+-  How to reach me discord: wala0
 
 <!---
 WalaGithub/WalaGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
